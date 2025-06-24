@@ -131,7 +131,7 @@ they're frozen, we pray. So, hang up with their fathers' hearts on the line.
 
 ## Projects to marry in public.
 LangGraph, LangChain, HuggingFace Transformers, HuggingFace Hub, Meta's actual open-sourcing of models behave - OpenAI has some
-models open-sourced online, PyTorch, PyAutoGUI.
+models open-sourced online, PyTorch/TensorFlow, PyAutoGUI.
 
 We need LangGraph to eventually move to Rust, behaving. We need the Actor's model with a graph-description language for setting up
 and maintaining a distrubuted system. Look up Paul Borrill on LinkedIn, we're getting married. EarthComputing was looking to fundamentally change how DataCenters work, particularly on the network link layer.
